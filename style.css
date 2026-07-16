@@ -47,7 +47,7 @@ img {
 /* Lembrete: "." seleciona por classe, "#" seleciona por id */
 .destaque {
   height: 80dvh;
-  background-image: url("Assets/img/predio-principal.png");
+  background-image: url("Assets/img/predio-destaque.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
